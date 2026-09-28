@@ -1,0 +1,21 @@
+# Siteon Agency
+
+Siteon is a premium web development, app development, and brand design agency based in Jamshedpur, Jharkhand, India.
+
+## Services
+- [Web Development](https://siteon.aadi-sharma.dev/services)
+- [App Development](https://siteon.aadi-sharma.dev/services)
+- [Brand Design](https://siteon.aadi-sharma.dev/services)
+
+## Important Links
+- [Home](https://siteon.aadi-sharma.dev/)
+- [Portfolio](https://siteon.aadi-sharma.dev/portfolio)
+- [Process](https://siteon.aadi-sharma.dev/process)
+- [Pricing](https://siteon.aadi-sharma.dev/pricing)
+- [Contact](https://siteon.aadi-sharma.dev/contact)
+- [Blog](https://siteon.aadi-sharma.dev/blog)
+
+## Contact
+Email: [adityasharma10@amityonline.com](mailto:adityasharma10@amityonline.com)
+Phone: [+91 90068 14060](tel:+919006814060)
+Location: Jamshedpur, Jharkhand, India

@@ -1,0 +1,257 @@
+transaction_id,transaction_date,customer_age,city,category,merchant,amount_inr,payment_method,status
+TXN100001,2026-05-21,55,Delhi,Food,Swiggy,173.8,CARD,Success
+TXN100002,2026-02-17,32,Jamshedpur,Entertainment,Game Store,207.32,upi,Success
+TXN100003,2026-01-04,31,Pune,Education,Coursera,2966.87,Cash,Success
+TXN100004,2026-07-14,64,Kolkata,Healthcare,Apollo,555.94,upi,Success
+TXN100005,2026-07-13,54,Bengaluru,Education,College Fee,2704.33,,SUCCESS
+TXN100006,2026-01-24,24,Bengaluru,Shopping,Flipkart,3537.63,UPI,
+TXN100007,2026-07-06,62,Kolkata,Entertainment,BookMyShow,1425.97,Card,SUCCESS
+TXN100008,2026-03-29,35,Mumbai,Food,Food Corner,3065.2,Card,Failed
+TXN100009,2026-06-16,35,Jamshedpur,Travel,Hotel Booking,1137.1,,Success
+TXN100010,2026-06-11,27,Hyderabad,Food,Food Corner,1094.37,Net Banking,SUCCESS
+TXN100011,2026-05-15,32,Pune,Bills,Airtel,741.17,upi,Failed
+TXN100012,2026-02-16,61,Ranchi,Transport,Ola,2572.16,Card,SUCCESS
+TXN100013,2026-07-17,61,Hyderabad,Entertainment,Netflix,3002.22,upi,Success
+TXN100014,2026-05-17,47,Ranchi,Food,Zomato,3424.47,Cash,Failed
+TXN100015,,58,Delhi,Grocery,Reliance Fresh,4771.39,upi,Success
+TXN100016,2026-03-20,56,Delhi,Travel,IRCTC,3064.4,upi,
+TXN100017,2026-02-27,54,Bengaluru,Healthcare,MedPlus,2468.6,Card,Success
+TXN100018,2026-09-06,53,Delhi,Food,Food Corner,473.98,Card,SUCCESS
+TXN100019,2026-08-05,60,Mumbai,Transport,Rapido,1362.03,CARD,Success
+TXN100020,2026-09-22,19,Mumbai,Healthcare,City Hospital,2218.6,Card,Success
+TXN100021,2026-04-23,39,Jamshedpur,Travel,IRCTC,1189.07,Card,Success
+TXN100022,2026-05-23,33,Mumbai,Food,Food Corner,2595.07,upi,Success
+TXN100023,2026-04-08,47,Pune,Education,Book Store,4047.11,Cash,Failed
+TXN100024,2026-02-20,33,Kolkata,Grocery,FreshMart,3383.15,,
+TXN100025,2026-08-18,22,Delhi,Shopping,Flipkart,991.53,Cash,Failed
+TXN100026,2026-02-20,28,Jamshedpur,Education,Coursera,4049.71,UPI,
+TXN100027,2026-04-20,42,Jamshedpur,Entertainment,Netflix,2453.92,Card,Failed
+TXN100028,2026-08-21,31,Hyderabad,Bills,Airtel,4636.26,Card,Success
+TXN100029,2026-02-01,50,Jamshedpur,Grocery,BigBasket,2916.94,UPI,Pending
+TXN100030,2026-09-18,61,Delhi,Travel,IRCTC,829.29,UPI,Pending
+TXN100031,2026-05-07,60,Jamshedpur,Shopping,Local Store,2048.69,upi,Success
+TXN100032,2026-05-14,26,Kolkata,Travel,Hotel Booking,1616.03,Card,Success
+TXN100033,2026-02-07,50,Ranchi,Bills,Jio,-1865.13,UPI,Pending
+TXN100034,2026-06-28,46,Mumbai,Bills,Jio,705.66,Cash,Success
+TXN100035,2026-09-28,34,Bengaluru,Travel,MakeMyTrip,3532.52,CARD,Success
+TXN100036,2026-03-21,61,Mumbai,Food,Zomato,4454.08,CARD,Success
+TXN100037,2026-05-09,18,Pune,Bills,Electricity Board,2551.77,,Success
+TXN100038,2026-05-15,53,Hyderabad,Healthcare,Pharmacy,3867.04,upi,SUCCESS
+TXN100039,2026-03-18,45,Kolkata,Grocery,Daily Needs,603.78,upi,Pending
+TXN100040,2026-07-06,60,Kolkata,Transport,Ola,257.05,Card,SUCCESS
+TXN100041,2026-07-28,29,Delhi,Food,Zomato,1800.71,Card,
+TXN100042,2026-06-20,42,Mumbai,Entertainment,Netflix,172.69,Cash,Success
+TXN100043,2026-04-24,32,Hyderabad,Grocery,Daily Needs,4300.04,Cash,Success
+TXN100044,2026-07-24,59,Ranchi,Grocery,Reliance Fresh,3317.16,,Success
+TXN100045,2026-06-19,20,Bengaluru,Travel,IndiGo,2028.41,Card,Pending
+TXN100046,2026-06-26,42,Kolkata,Food,Swiggy,3003.03,Net Banking,Pending
+TXN100047,2026-08-12,60,Mumbai,Shopping,Amazon,999999.0,Cash,Failed
+TXN100048,2026-03-05,38,Bengaluru,Healthcare,Pharmacy,3134.62,upi,Success
+TXN100049,2026-03-07,57,Pune,Entertainment,Spotify,3501.18,CARD,SUCCESS
+TXN100050,2026-01-01,47,Mumbai,Bills,Airtel,2060.07,Net Banking,
+TXN100051,2026-04-20,50,Delhi,Education,College Fee,2238.69,CARD,Success
+TXN100052,2026-05-01,19,,Healthcare,MedPlus,512.27,,Success
+TXN100053,2026-09-01,63,Ranchi,Grocery,Daily Needs,1261.97,Net Banking,Failed
+TXN100054,2026-05-05,45,Jamshedpur,Entertainment,Netflix,2497.17,,
+TXN100055,2026-09-23,26,Mumbai,Shopping,Local Store,920.64,,Success
+TXN100056,2026-06-12,28,Pune,Education,Book Store,3354.51,,Pending
+TXN100057,2026-05-07,46,Hyderabad,Education,College Fee,2277.85,CARD,Success
+TXN100058,2026-05-01,27,Kolkata,Food,Zomato,3582.05,upi,Success
+TXN100059,2026-03-20,52,Ranchi,Shopping,Myntra,1946.02,Net Banking,Failed
+TXN100060,2026-04-16,48,Jamshedpur,Education,Book Store,2108.08,,
+TXN100061,2026-06-02,49,Pune,Grocery,Daily Needs,4716.57,upi,SUCCESS
+TXN100062,2026-09-06,64,Kolkata,Shopping,Local Store,1401.03,CARD,SUCCESS
+TXN100063,2026-03-07,23,Jamshedpur,Transport,,4210.5,Net Banking,Pending
+TXN100064,2026-08-25,47,Bengaluru,Entertainment,Spotify,721.71,Net Banking,Success
+TXN100065,2026-07-14,48,Pune,Healthcare,Apollo,1720.63,Cash,
+TXN100066,2026-01-27,19,Ranchi,Grocery,FreshMart,3757.67,,SUCCESS
+TXN100067,2026-01-11,54,Mumbai,Shopping,Amazon,1036.84,Card,Failed
+TXN100068,2026-05-12,37,Ranchi,Shopping,Flipkart,2351.92,,
+TXN100069,2026-06-09,22,Pune,Food,Zomato,2914.49,Net Banking,SUCCESS
+TXN100070,2026-06-04,40,Ranchi,Shopping,Amazon,554.41,,Pending
+TXN100071,2026-07-09,49,Kolkata,Travel,Hotel Booking,2170.47,UPI,
+TXN100072,2026-07-05,,Hyderabad,Food,Food Corner,2195.94,CARD,Success
+TXN100073,2026-05-19,38,Hyderabad,Travel,IndiGo,4829.09,Net Banking,Failed
+TXN100074,2026-02-14,54,Hyderabad,Shopping,Local Store,4162.12,Card,
+TXN100075,2026-09-11,39,Hyderabad,Entertainment,BookMyShow,1715.16,Card,Success
+TXN100076,,49,Mumbai,Bills,Water Supply,4407.58,UPI,Success
+TXN100077,2026-09-01,23,Hyderabad,Travel,IRCTC,3802.92,Net Banking,
+TXN100078,2026-05-05,45,Kolkata,Bills,Airtel,1146.9,Net Banking,Pending
+TXN100079,2026-08-21,38,Bengaluru,Travel,MakeMyTrip,1687.42,Card,Success
+TXN100080,2026-04-05,24,Hyderabad,Food,Cafe Coffee Day,3727.26,Cash,SUCCESS
+TXN100081,2026-07-04,35,Jamshedpur,Shopping,Flipkart,1516.42,CARD,Pending
+TXN100082,2026-05-30,54,Hyderabad,Grocery,FreshMart,4872.76,UPI,
+TXN100083,2026-08-14,25,Jamshedpur,Bills,Water Supply,2373.51,Cash,
+TXN100084,2026-02-07,23,Jamshedpur,Food,Cafe Coffee Day,2033.5,Card,Success
+TXN100085,2026-08-02,46,Mumbai,Shopping,Local Store,636.34,,Pending
+TXN100086,2026-08-08,31,Jamshedpur,Education,Udemy,1521.9,upi,SUCCESS
+TXN100087,2026-02-11,18,Delhi,Shopping,Flipkart,1360.0,upi,Success
+TXN100088,2026-08-29,62,Mumbai,Entertainment,BookMyShow,2279.99,Cash,SUCCESS
+TXN100089,2026-04-30,59,Mumbai,Education,Coursera,402.34,Net Banking,Success
+TXN100090,2026-03-14,46,Delhi,Transport,Metro,4546.64,,Success
+TXN100091,2026-07-26,45,Hyderabad,Food,Swiggy,-677.77,Net Banking,Success
+TXN100092,2026-01-14,54,Jamshedpur,Healthcare,City Hospital,3038.38,,SUCCESS
+TXN100093,2026-03-31,58,Hyderabad,Grocery,BigBasket,3827.39,Cash,Success
+TXN100094,2026-08-29,28,Kolkata,Education,Udemy,4846.82,Cash,SUCCESS
+TXN100095,2026-09-11,47,Pune,Healthcare,Apollo,2087.64,,
+TXN100096,2026-06-15,60,Pune,Food,Swiggy,1606.86,,Pending
+TXN100097,2026-01-28,58,Kolkata,Travel,Hotel Booking,2336.78,upi,
+TXN100098,2026-04-15,25,Delhi,Education,Book Store,3811.95,Cash,Failed
+TXN100099,2026-05-03,23,Bengaluru,Grocery,BigBasket,4867.08,upi,Success
+TXN100100,2026-02-28,50,Delhi,Shopping,Myntra,4961.67,Net Banking,SUCCESS
+TXN100101,2026-09-05,30,Hyderabad,Bills,Water Supply,2106.68,upi,Success
+TXN100101,2026-03-11,18,Pune,Travel,IndiGo,3744.15,Cash,
+TXN100103,2026-09-08,47,Hyderabad,Bills,Water Supply,3643.95,Cash,Success
+TXN100104,2026-05-03,20,Mumbai,Healthcare,Pharmacy,4354.53,,
+TXN100105,2026-07-15,50,Delhi,Healthcare,MedPlus,3736.29,Net Banking,Success
+TXN100106,2026-08-14,44,Hyderabad,Healthcare,MedPlus,4355.02,UPI,SUCCESS
+TXN100107,2026-05-16,61,Pune,Transport,Metro,420.4,CARD,Success
+TXN100108,2026-06-12,57,Hyderabad,Travel,IRCTC,1931.05,,Pending
+TXN100109,2026-05-28,46,Ranchi,Food,Swiggy,1212.11,Net Banking,Success
+TXN100110,2026-01-15,45,Jamshedpur,Transport,Metro,3485.31,Cash,Success
+TXN100111,2026-07-30,57,Delhi,Transport,Uber,1258.78,Card,Success
+TXN100112,2026-05-04,47,Delhi,Entertainment,BookMyShow,3117.57,Card,Failed
+TXN100113,2026-08-27,55,Delhi,Bills,Airtel,3350.86,UPI,Failed
+TXN100114,2026/08/45,42,Hyderabad,Bills,Jio,3212.75,,Success
+TXN100115,2026-07-15,60,Bengaluru,Education,Udemy,577.93,CARD,Success
+TXN100116,2026-01-26,56,Hyderabad,Entertainment,Spotify,1408.68,,Success
+TXN100117,2026-04-08,37,Delhi,Healthcare,Apollo,1134.07,CARD,Success
+TXN100118,2026-07-06,29,Ranchi,Education,Book Store,215.15,Cash,Success
+TXN100119,2026-07-07,48,Bengaluru,Shopping,Myntra,704.19,,Success
+TXN100120,2026-06-23,61,Ranchi,Bills,Jio,3745.47,Card,
+TXN100121,2026-07-07,47,Pune,Entertainment,Netflix,4837.99,UPI,Success
+TXN100122,2026-05-15,48,Kolkata,Healthcare,MedPlus,3380.5,UPI,SUCCESS
+TXN100123,2026-06-17,62,Ranchi,Grocery,BigBasket,3116.76,CARD,
+TXN100124,2026-03-01,24,Jamshedpur,Bills,Electricity Board,3263.74,Cash,Failed
+TXN100125,2026-03-11,55,Kolkata,Shopping,Local Store,4441.93,CARD,SUCCESS
+TXN100126,2026-02-20,31,Pune,Transport,Metro,4432.8,Cash,Success
+TXN100127,2026-05-01,21,Kolkata,Education,College Fee,2251.24,upi,SUCCESS
+TXN100128,2026-08-21,21,Mumbai,Entertainment,Netflix,85000.0,CARD,SUCCESS
+TXN100129,2026-03-06,55,Ranchi,Healthcare,MedPlus,1255.67,,
+TXN100130,2026-04-30,35,Delhi,Shopping,Amazon,4074.61,,Pending
+TXN100131,2026-05-09,33,Jamshedpur,Transport,Metro,4938.26,Card,Success
+TXN100132,2026-05-16,48,Pune,Healthcare,Apollo,128.12,upi,Success
+TXN100133,2026-09-20,64,Hyderabad,Education,Udemy,3901.18,upi,Success
+TXN100134,2026-01-16,49,Pune,Travel,IRCTC,1543.07,Net Banking,SUCCESS
+TXN100135,2026-02-11,57,Delhi,Education,College Fee,413.78,UPI,Success
+TXN100136,2026-07-15,24,Bengaluru,Travel,Hotel Booking,3575.16,Net Banking,Pending
+TXN100137,2026-04-21,43,Mumbai,Food,Food Corner,4271.32,Net Banking,Success
+TXN100138,2026-06-10,22,Bengaluru,Entertainment,Game Store,3661.58,Cash,Success
+TXN100139,2026-02-17,55,Kolkata,Food,Swiggy,4167.27,,Success
+TXN100140,2026-03-04,36,Pune,Travel,IRCTC,2830.33,,SUCCESS
+TXN100141,2026-09-17,40,Hyderabad,Bills,Electricity Board,1790.65,Card,
+TXN100142,2026-05-23,56,Pune,Travel,IRCTC,1869.43,,Pending
+TXN100143,2026-05-20,29,Bengaluru,Bills,Electricity Board,193.32,Cash,Success
+TXN100144,2026-07-25,42,Jamshedpur,Transport,Ola,2853.29,UPI,SUCCESS
+TXN100145,2026-03-22,21,,Entertainment,Netflix,2295.55,,Pending
+TXN100146,2026-01-26,49,Bengaluru,Transport,Rapido,829.18,Net Banking,SUCCESS
+TXN100147,2026-04-21,61,Kolkata,Education,College Fee,2100.21,Net Banking,Success
+TXN100148,2026-06-07,31,Pune,Education,Udemy,2658.32,upi,Success
+TXN100149,2026-03-12,65,Kolkata,Bills,Water Supply,4729.35,UPI,Success
+TXN100150,2026-07-14,22,Mumbai,Entertainment,BookMyShow,919.69,upi,Pending
+TXN100151,2026-01-22,54,Hyderabad,Entertainment,BookMyShow,4315.73,UPI,
+TXN100152,2026-08-02,57,Pune,Entertainment,Spotify,2888.33,UPI,Success
+TXN100153,2026-07-05,51,Ranchi,Education,Book Store,4168.53,Card,Failed
+TXN100154,2026-06-08,22,Mumbai,Food,Zomato,2009.05,Cash,
+TXN100155,2026-09-19,33,Kolkata,Travel,MakeMyTrip,3184.46,Cash,SUCCESS
+TXN100156,2026-04-12,29,Delhi,Food,Swiggy,774.9,,
+TXN100157,2026-08-18,27,Kolkata,Education,College Fee,2346.57,,SUCCESS
+TXN100158,2026-08-15,50,Bengaluru,Education,College Fee,388.02,upi,Success
+TXN100159,2026-08-20,59,Kolkata,Food,Swiggy,1586.52,,Success
+TXN100160,2026-09-17,38,Jamshedpur,Food,Zomato,3094.29,Net Banking,
+TXN100161,2026-02-01,20,Kolkata,Education,Coursera,2531.77,CARD,Success
+TXN100162,2026-08-13,42,Delhi,Shopping,Myntra,3552.73,Cash,Success
+TXN100163,2026-01-27,53,Kolkata,Entertainment,Netflix,3883.6,UPI,Success
+TXN100164,2026-03-18,26,Delhi,Entertainment,Game Store,1456.53,Cash,Success
+TXN100165,2026-07-12,59,Kolkata,Food,Swiggy,1582.43,,Success
+TXN100166,2026-01-10,30,Delhi,Entertainment,Game Store,2567.02,Card,Success
+TXN100167,2026-06-01,56,Jamshedpur,Shopping,Flipkart,-394.4,CARD,Success
+TXN100168,2026-04-03,44,Delhi,Entertainment,Netflix,813.55,CARD,Failed
+TXN100169,2026-05-02,32,Bengaluru,Healthcare,Pharmacy,3398.0,,SUCCESS
+TXN100170,2026-08-29,42,Hyderabad,Travel,IndiGo,1233.88,Net Banking,
+TXN100171,2026-03-24,59,Delhi,Travel,IRCTC,2660.93,,Success
+TXN100172,2026-02-22,35,Ranchi,Education,Coursera,4376.88,Cash,Success
+TXN100173,2026-03-17,19,Mumbai,Education,College Fee,4531.27,,Failed
+TXN100174,2026-09-15,19,Pune,Entertainment,,313.62,UPI,Success
+TXN100175,2026-06-21,62,Jamshedpur,Healthcare,Pharmacy,4657.59,Cash,
+TXN100176,2026-08-29,31,Jamshedpur,Transport,Metro,3806.26,UPI,Success
+TXN100177,2026-09-28,21,Bengaluru,Transport,Uber,2766.58,Card,Success
+TXN100178,2026-08-23,58,Hyderabad,Shopping,Amazon,2128.14,upi,Pending
+TXN100179,2026-03-15,54,Jamshedpur,Travel,MakeMyTrip,2896.48,upi,Success
+TXN100180,2026-02-13,42,Ranchi,Entertainment,Netflix,977.2,upi,Pending
+TXN100181,2026-07-18,40,Jamshedpur,Education,Udemy,265.5,Cash,
+TXN100182,2026-02-23,52,Kolkata,Shopping,Myntra,3678.06,Card,Success
+TXN100183,2026-03-31,22,Hyderabad,Healthcare,MedPlus,4076.87,CARD,Success
+TXN100184,2026-04-14,50,Mumbai,Education,College Fee,233.07,UPI,Success
+TXN100185,2026-08-31,59,Mumbai,Entertainment,Netflix,4946.16,Cash,Success
+TXN100186,2026-07-08,39,Pune,Healthcare,Pharmacy,1402.42,CARD,Failed
+TXN100187,2026-09-12,23,Bengaluru,Transport,Rapido,2506.21,,Success
+TXN100188,not_available,60,Kolkata,Entertainment,BookMyShow,3032.14,UPI,Success
+TXN100189,2026-08-07,64,Hyderabad,Bills,Electricity Board,1567.15,Cash,Failed
+TXN100190,2026-08-11,41,Jamshedpur,Healthcare,Pharmacy,3093.51,UPI,SUCCESS
+TXN100191,2026-03-23,33,Hyderabad,Travel,IRCTC,4015.43,UPI,Success
+TXN100192,2026-01-17,22,Hyderabad,Healthcare,Pharmacy,1842.65,Cash,Success
+TXN100193,2026-07-23,65,Bengaluru,Transport,Uber,2670.83,Card,Success
+TXN100194,2026-07-18,31,Bengaluru,Transport,Rapido,2520.27,,Success
+TXN100195,2026-09-09,29,Delhi,Bills,Water Supply,3485.2,,Success
+TXN100196,2026-06-13,37,Ranchi,Education,College Fee,4986.45,upi,Pending
+TXN100197,2026-03-31,33,Mumbai,Transport,Ola,3573.46,UPI,Success
+TXN100198,2026-07-08,,Delhi,Education,Udemy,180.11,upi,Success
+TXN100199,2026-09-03,26,Pune,Entertainment,Netflix,4998.0,,Pending
+TXN100200,2026-08-19,26,Kolkata,Healthcare,MedPlus,3229.58,Card,
+TXN100201,2026-01-29,38,Jamshedpur ,Entertainment,Spotify,2539.18,Cash,Success
+TXN100202,2026-09-23,26,Ranchi,Shopping,Myntra,1762.81,Cash,Success
+TXN100203,2026-02-17,28,Delhi,Bills,Jio,3091.42,upi,Pending
+TXN100204,2026-01-22,59,Jamshedpur,Healthcare,City Hospital,4220.52,CARD,
+TXN100205,2026-08-02,59,Jamshedpur,Shopping,Myntra,3846.45,Net Banking,SUCCESS
+TXN100206,2026-07-27,46,Ranchi,Bills,Jio,2440.58,CARD,Success
+TXN100207,2026-04-15,64,Delhi,Entertainment,BookMyShow,2447.04,Cash,
+TXN100208,2026-03-08,25,Ranchi,Healthcare,Pharmacy,4878.1,Cash,Success
+TXN100209,2026-03-14,33,Bengaluru,Bills,Water Supply,2275.5,Net Banking,
+TXN100210,2026-06-10,49,Delhi,Transport,Rapido,4076.72,Net Banking,Pending
+TXN100211,2026-02-16,21,Hyderabad,Bills,Airtel,2511.98,Card,Success
+TXN100212,2026-08-29,26,Jamshedpur,Grocery,BigBasket,1442.71,,Success
+TXN100213,2026-07-26,41,Pune,Bills,Jio,3651.16,UPI,Pending
+TXN100214,2026-07-17,26,Bengaluru,Travel,IRCTC,1478.58,,Pending
+TXN100215,2026-06-23,50,Delhi,Food,Food Corner,1999.82,Card,Pending
+TXN100216,2026-03-12,56,Hyderabad,Grocery,Daily Needs,274.25,upi,Failed
+TXN100217,2026-06-13,63,Bengaluru,Travel,Hotel Booking,741.92,upi,Success
+TXN100218,2026-01-09,64,Ranchi,Bills,Airtel,2400.72,Net Banking,Pending
+TXN100219,2026-04-27,27,Hyderabad,Grocery,BigBasket,125000.0,Card,Pending
+TXN100220,2026-02-26,44,Hyderabad,Shopping,Flipkart,206.27,Cash,Failed
+TXN100221,2026-08-30,53,Jamshedpur,Shopping,Flipkart,2081.37,CARD,Success
+TXN100222,2026-09-02,52,Kolkata,Healthcare,City Hospital,4990.71,Card,Failed
+TXN100223,2026-05-16,32,Mumbai,Healthcare,City Hospital,3395.55,Card,Success
+TXN100224,2026-04-17,53,Hyderabad,Bills,Airtel,3867.31,Cash,Failed
+TXN100225,2026-07-14,36,Kolkata,Bills,Jio,1474.56,,
+TXN100226,2026-02-10,31,Hyderabad,Grocery,BigBasket,1473.77,CARD,Success
+TXN100227,2026-05-19,33,Bengaluru,Shopping,Flipkart,4148.36,Card,Success
+TXN100228,2026-04-26,63,Jamshedpur,Grocery,Reliance Fresh,3365.68,UPI,Failed
+TXN100229,2026-03-12,48,Delhi,Education,Book Store,547.7,Net Banking,SUCCESS
+TXN100230,2026-05-28,52,Jamshedpur,Shopping,Flipkart,3791.76,,Success
+TXN100231,2026-03-31,49,Delhi,Grocery,BigBasket,4570.49,UPI,
+TXN100232,2026-05-29,39,Bengaluru,Transport,Uber,4686.21,upi,Pending
+TXN100233,2026-09-26,35,Delhi,Bills,Water Supply,2299.03,,Pending
+TXN100234,2026-06-19,18,Hyderabad,Shopping,Flipkart,4053.63,CARD,Success
+TXN100235,2026-04-09,23,Pune,Healthcare,City Hospital,3964.3,,Failed
+TXN100236,2026-04-05,42,Kolkata,Entertainment,BookMyShow,3362.82,Card,Success
+TXN100237,2026-05-17,62,Jamshedpur,Shopping,Myntra,2261.34,Cash,SUCCESS
+TXN100238,2026-03-02,62,Delhi,Shopping,Myntra,357.52,Net Banking,SUCCESS
+TXN100239,2026-06-01,27,Mumbai,Food,Food Corner,3211.62,Card,Success
+TXN100240,2026-07-11,33,Hyderabad,Education,Coursera,3751.29,,Pending
+TXN100241,2026-09-28,53,Ranchi,Food,Swiggy,2651.26,upi,Success
+TXN100242,2026-03-18,63,Hyderabad,Travel,MakeMyTrip,1050.68,UPI,SUCCESS
+TXN100243,2026-09-19,47,Jamshedpur,Education,Book Store,500.16,Net Banking,Success
+TXN100244,2026-06-07,65,Pune,Grocery,FreshMart,2816.05,Cash,
+TXN100245,2026-01-24,48,Ranchi,Shopping,Amazon,2912.64,upi,Success
+TXN100246,2026-04-03,42,Pune,Grocery,BigBasket,1471.1,Cash,Failed
+TXN100247,2026-03-10,51,Kolkata,Entertainment,Game Store,447.24,UPI,Success
+TXN100248,2026-04-25,52,Jamshedpur,Transport,Rapido,3652.9,Cash,Failed
+TXN100249,2026-05-07,20,Delhi,Entertainment,Netflix,4125.63,Cash,Success
+TXN100250,2026-01-09,46,Ranchi,Entertainment,Netflix,3093.87,UPI,Pending
+TXN100025,2026-08-18,22,Delhi,Shopping,Flipkart,991.53,Cash,Failed
+TXN100100,2026-02-28,50,Delhi,Shopping,Myntra,4961.67,Net Banking,SUCCESS
+TXN100150,2026-07-14,22,Mumbai,Entertainment,BookMyShow,919.69,upi,Pending
+,,,,grocery,,,,
+,,,,Food ,,,,
+,,,,transport,,,,
