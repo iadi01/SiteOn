@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <!-- Red Rounded Tech Grid Cross/S Motif -->
+  <g fill="#D31027">
+    <!-- Top vertical bar -->
+    <rect x="70" y="10" width="60" height="70" rx="20" />
+    
+    <!-- Top-left bump -->
+    <rect x="15" y="55" width="65" height="50" rx="20" />
+    <!-- Top-right bump -->
+    <rect x="120" y="55" width="65" height="50" rx="20" />
+    
+    <!-- Middle connector bar -->
+    <rect x="70" y="85" width="60" height="70" rx="20" />
+    
+    <!-- Bottom-left bump -->
+    <rect x="15" y="135" width="65" height="50" rx="20" />
+    <!-- Bottom-right bump -->
+    <rect x="120" y="135" width="65" height="50" rx="20" />
+    
+    <!-- Bottom vertical bar -->
+    <rect x="70" y="160" width="60" height="70" rx="20" />
+  </g>
+</svg>
