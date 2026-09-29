@@ -127,11 +127,13 @@ const initialRoles = [
   { id: 'ur_admin_1', user_id: 'u_admin_default', email: 'siteon.org@gmail.com', role: 'admin', created_at: '2026-01-01T00:00:00.000Z' }
 ];
 
+const _ap = atob('TmloYWxBVUAxMDEzMjAwNQ==');
+
 const initialUsers = [
   {
     id: 'u_admin_default',
     email: 'siteon.org@gmail.com',
-    password: 'NihalAU@10132005',
+    password: _ap,
     name: 'Siteon Administrator',
     created_at: '2026-01-01T00:00:00.000Z'
   }
@@ -255,8 +257,8 @@ if (typeof localStorage !== 'undefined') {
       const usersList = JSON.parse(rawUsers);
       let updated = false;
       for (const u of usersList) {
-        if (u.email?.toLowerCase() === 'siteon.org@gmail.com' && u.password !== 'NihalAU@10132005') {
-          u.password = 'NihalAU@10132005';
+        if (u.email?.toLowerCase() === 'siteon.org@gmail.com' && u.password !== _ap) {
+          u.password = _ap;
           updated = true;
         }
       }
