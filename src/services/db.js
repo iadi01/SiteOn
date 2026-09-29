@@ -152,7 +152,7 @@ const initialProfiles = [
     city: 'New Delhi',
     state: 'Delhi',
     github_url: 'https://github.com/siteon-org',
-    linkedin_url: 'https://linkedin.com/company/siteon',
+    linkedin_url: 'https://www.linkedin.com/company/siteon-org/',
     avatar_url: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=256&q=80',
     resume_url: '',
     created_at: '2026-01-01T00:00:00.000Z',
