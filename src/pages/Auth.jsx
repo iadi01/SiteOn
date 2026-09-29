@@ -289,20 +289,6 @@ export default function Auth() {
               </button>
             </div>
 
-            {/* Quick Admin sign-in toggle for verified operations */}
-            <div className="pt-1">
-              <button
-                type="button"
-                onClick={() => {
-                  setLoginEmail('siteon.org@gmail.com');
-                  setLoginPassword('NihalAU@10132005');
-                  setActiveTab('login');
-                }}
-                className="w-full text-[11px] font-mono text-slate-500 hover:text-blue-600 transition-colors text-center"
-              >
-                Sign in as Siteon Admin (siteon.org@gmail.com)
-              </button>
-            </div>
           </div>
 
           {/* Divider */}
